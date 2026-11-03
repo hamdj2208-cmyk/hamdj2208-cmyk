@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Hamed
 
-<!--
-**hamdj2208-cmyk/hamdj2208-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Cloudflare Workers
+- 🔧 MLmvpn
+- 💻 Exploring web technologies and cloud services
+
+🌱 Currently Learning
+
+- GitHub
+- Cloudflare
+- Networking
+- Web development
+
+🎯 My Goal
+
+Learning, building, experimenting, and creating useful projects.
+
+📫 Contact
+
+GitHub: "@hamdj2208-cmyk" (https://github.com/hamdj2208-cmyk)
+
+---
+
+⭐ Thanks for visiting my profile!
